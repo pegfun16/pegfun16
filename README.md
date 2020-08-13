@@ -11,4 +11,4 @@
 - [A Stream I Did](https://www.youtube.com/watch?v=T7GIwry61oE)
 <!-- YOUTUBE:END -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegfun16)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegfun16&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
