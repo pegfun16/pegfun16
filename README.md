@@ -15,6 +15,7 @@
 
 ## Tutorials
 <!-- TUTORIALS:START -->
+- [Test](https://pegfun16.github.io/tutorials/1.html)
 <!-- TUTORIALS:END -->
 
 ---
