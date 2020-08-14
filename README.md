@@ -24,7 +24,7 @@
 
 ---
 
-##Latest Twitch Streams (Last 15 Days)
+## Latest Twitch Streams (Last 15 Days)
 <!-- TWITCH:START -->
 <!-- TWITCH:END -->
 
