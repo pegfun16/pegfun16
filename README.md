@@ -17,10 +17,16 @@
 
 ---
 
-## Tutorials
+## Latest Tutorials
 <!-- TUTORIALS:START -->
 - [Test](https://pegfun16.github.io/tutorials/1.html)
 <!-- TUTORIALS:END -->
+
+---
+
+##Latest Twitch Streams (Last 15 Days)
+<!-- TWITCH:START -->
+<!-- TWITCH:END -->
 
 ---
 
