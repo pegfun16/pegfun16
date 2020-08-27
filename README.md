@@ -26,7 +26,7 @@
 
 ## Latest Twitch Streams (Last 15 Days)
 <!-- TWITCH:START -->
-- [Playing VALORANT With My New Monitor - LIVE](http://www.twitch.tv/pegfun16)
+- [Playing Minecraft with YTexxora - LIVE](http://www.twitch.tv/pegfun16)
 <!-- TWITCH:END -->
 
 ---
