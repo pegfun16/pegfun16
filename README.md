@@ -17,17 +17,10 @@
 
 ---
 
-## Latest Tutorials
-<!-- TUTORIALS:START -->
-- [Test](https://pegfun16.github.io/tutorials/1.html)
-<!-- TUTORIALS:END -->
-
----
-
 ## Latest Twitch Streams (Last 15 Days)
 <!-- TWITCH:START -->
 <!-- TWITCH:END -->
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pegfun16&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=pegfun16&show_icons=true&hide_border=true)
