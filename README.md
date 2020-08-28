@@ -19,6 +19,7 @@
 
 ## Latest Twitch Streams
 <!-- TWITCH:START -->
+- [Playing Minecraft with YTexxora](https://www.twitch.tv/videos/723324773)
 <!-- TWITCH:END -->
 
 ---
