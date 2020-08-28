@@ -8,18 +8,17 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
-- [PewDiePie Sings Dame Da Ne](https://www.youtube.com/watch?v=MBh74e8hI-c)
 - [I Have a Discord Server!](https://www.youtube.com/watch?v=-lXDJvfJlsw)
 - [The Most EPIC Valorant Montage](https://www.youtube.com/watch?v=doRw4VUSnzA)
 - [Losing Our Minds In Bed Wars (ft. PandaSwagPlayGames)](https://www.youtube.com/watch?v=t862McI1ktk)
 - [Failing At Bed Wars (ft. OOFER Productions)](https://www.youtube.com/watch?v=Qx5zMHCg_zU)
+- [A Stream I Did](https://www.youtube.com/watch?v=T7GIwry61oE)
 <!-- YOUTUBE:END -->
 
 ---
 
-## Latest Twitch Streams (Last 15 Days)
+## Latest Twitch Streams
 <!-- TWITCH:START -->
-- [Playing Minecraft with YTexxora](https://www.twitch.tv/videos/723324773)
 <!-- TWITCH:END -->
 
 ---
