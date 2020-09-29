@@ -8,7 +8,11 @@
 
 ## Latest Videos
 <!-- YOUTUBE:START -->
-- [Blender Molecular Simulations](https://www.youtube.com/watch?v=a0OS7FT2nP8)
+- [PewDiePie Sings Dame Da Ne](https://www.youtube.com/watch?v=MBh74e8hI-c)
+- [I Have a Discord Server!](https://www.youtube.com/watch?v=-lXDJvfJlsw)
+- [The Most EPIC Valorant Montage](https://www.youtube.com/watch?v=doRw4VUSnzA)
+- [Losing Our Minds In Bed Wars (ft. PandaSwagPlayGames)](https://www.youtube.com/watch?v=t862McI1ktk)
+- [Failing At Bed Wars (ft. OOFER Productions)](https://www.youtube.com/watch?v=Qx5zMHCg_zU)
 <!-- YOUTUBE:END -->
 
 ---
