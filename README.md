@@ -19,7 +19,7 @@
 
 ## Latest Twitch Streams
 <!-- TWITCH:START -->
-- [Playing Among Us with OOFER Productions](https://www.twitch.tv/videos/751015978)
+- [Practicing Some Portal Speedrunning Strats](https://www.twitch.tv/videos/766686255)
 <!-- TWITCH:END -->
 
 ---
