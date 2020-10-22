@@ -19,7 +19,7 @@
 
 ## Latest Twitch Streams
 <!-- TWITCH:START -->
-- [Practicing Some Portal Speedrunning Strats](https://www.twitch.tv/videos/766686255)
+- [Playing Half-Life 2 Beta Minimalist Mod - LIVE](http://www.twitch.tv/pegfun16)
 <!-- TWITCH:END -->
 
 ---
