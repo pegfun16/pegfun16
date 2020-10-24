@@ -19,6 +19,7 @@
 
 ## Latest Twitch Streams
 <!-- TWITCH:START -->
+- [Playing Half-Life 2 Beta Minimalist Mod - LIVE](http://www.twitch.tv/pegfun16)
 - [Playing Half-Life 2 Beta Minimalist Mod](https://www.twitch.tv/videos/778531928)
 <!-- TWITCH:END -->
 
