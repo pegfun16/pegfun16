@@ -24,4 +24,8 @@
 
 ---
 
+## Latest Tumblr Post
+<!-- TUMBLR:START -->
+<!-- TUMBLR:END -->
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=pegfun16&show_icons=true&hide_border=true)
