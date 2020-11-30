@@ -24,7 +24,7 @@
 
 ---
 
-## Latest Tumblr Post
+## Latest Tumblr Posts
 <!-- TUMBLR:START -->
 <!-- TUMBLR:END -->
 
