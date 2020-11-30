@@ -1,4 +1,4 @@
-name: Latest Tumblr Streams
+name: Latest Tumblr Posts
 on:
   schedule:
     # Runs every hour
