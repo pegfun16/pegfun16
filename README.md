@@ -26,6 +26,8 @@
 
 ## Latest Tumblr Posts
 <!-- TUMBLR:START -->
+- [something i made in blender.](https://pegfun16.tumblr.com/post/636701191919828992)
+- [something i made in blender.](https://pegfun16.tumblr.com/post/636700995289808896)
 - [a post.](https://pegfun16.tumblr.com/post/636246616274239488)
 <!-- TUMBLR:END -->
 
