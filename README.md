@@ -9,10 +9,10 @@
 ## Latest Videos
 <!-- YOUTUBE:START -->
 - [just got a new mic.](https://www.youtube.com/watch?v=36can3KJYnw)
-- [PewDiePie Sings Dame Da Ne](https://www.youtube.com/watch?v=MBh74e8hI-c)
 - [I Have a Discord Server!](https://www.youtube.com/watch?v=-lXDJvfJlsw)
 - [The Most EPIC Valorant Montage](https://www.youtube.com/watch?v=doRw4VUSnzA)
 - [Losing Our Minds In Bed Wars (ft. PandaSwagPlayGames)](https://www.youtube.com/watch?v=t862McI1ktk)
+- [Failing At Bed Wars (ft. OOFER Productions)](https://www.youtube.com/watch?v=Qx5zMHCg_zU)
 <!-- YOUTUBE:END -->
 
 ---
