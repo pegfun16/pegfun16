@@ -1,7 +1,7 @@
 # pegfun16's GitHub
 
 [![Twitch Status](https://img.shields.io/twitch/status/pegfun16?label=Twitch&logo=Twitch&logoColor=%23ffffff)](https://twitch.tv/pegfun16)
-[![YouTube](http://img.shields.io/badge/You-Tube-red?style=flat&logo=YouTube)](https://youtube.com/channel/UC__eAGSAHqLUSmzU7hmxtWA)
+[![YouTube](https://img.shields.io/badge/dynamic/json?color=red&label=YouTube&query=items.0.statistics.subscriberCount&url=https%3A%2F%2Fwww.googleapis.com%2Fyoutube%2Fv3%2Fchannels%3Fpart%3Dstatistics%26id%3DUC__eAGSAHqLUSmzU7hmxtWA%26key%3DAIzaSyAt8JXVq2ZLPbxxsrtOCaE8oMSsEjaxcas&suffix=%20Subscribers&logo=YouTube)](https://youtube.com/channel/UC__eAGSAHqLUSmzU7hmxtWA)
 
 ---
 
