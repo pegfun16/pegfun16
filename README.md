@@ -8,10 +8,10 @@
 ## Latest Videos
 <!-- YOUTUBE:START -->
 - [just got a new mic.](https://www.youtube.com/watch?v=36can3KJYnw)
-- [I Have a Discord Server!](https://www.youtube.com/watch?v=-lXDJvfJlsw)
 - [Losing Our Minds In Bed Wars (ft. PandaSwagPlayGames)](https://www.youtube.com/watch?v=t862McI1ktk)
 - [Failing At Bed Wars (ft. OOFER Productions)](https://www.youtube.com/watch?v=Qx5zMHCg_zU)
 - [A Stream I Did](https://www.youtube.com/watch?v=T7GIwry61oE)
+- [W I D E](https://www.youtube.com/watch?v=U88DC9PGTUs)
 <!-- YOUTUBE:END -->
 
 ---
